@@ -1,0 +1,2 @@
+limit,threads,total_steps,average_steps,execution_time_seconds,time_per_number
+100000,56,10753840,107.5384,0.031879484999999999,3.1879484999999998e-07
